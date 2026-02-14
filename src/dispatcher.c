@@ -1,9 +1,5 @@
 // SPDX-License-Identifier: BSD-3-Clause
 
-/*
-	DISCLAIMER: NU rulati pe o masina cu mai mult de 4 core-uri :P
-*/
-
 #include <errno.h>
 #include <fcntl.h>
 #include <pthread.h>
